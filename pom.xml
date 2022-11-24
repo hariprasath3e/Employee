@@ -22,7 +22,7 @@
 		<skip.unit.tests>false</skip.unit.tests>
 		<skip.integration.tests>true</skip.integration.tests>
 		<jdk.version>1.8</jdk.version>
-		<hibernate.version>4.3.6.Final</hibernate.version>
+		<hibernate.version>5.3.20.Final</hibernate.version>
 		<mysql.connector.version>8.0.20</mysql.connector.version>
 		<joda-time.version>2.3</joda-time.version>
 		<mockito.version>1.10.19</mockito.version>
